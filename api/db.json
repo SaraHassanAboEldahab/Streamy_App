@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "stream-1",
+      "description": "asdklmncmsla;;alkknxm",
+      "userId": "114405180322738809610",
+      "id": 1
+    },
+    {
+      "title": "stream-2",
+      "description": "test",
+      "userId": "114405180322738809610",
+      "id": 2
+    }
+  ]
+}
